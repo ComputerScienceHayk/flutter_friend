@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161020097770",
+    "project_id": "flutter-friend",
+    "storage_bucket": "flutter-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161020097770:android:6cf1e7fe3238b2d3fc1393",
+        "android_client_info": {
+          "package_name": "com.swehayk.flutter_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161020097770-8to61la2uki7ufa1n82vi0cjhnq4g1qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjN5_xO5KfXHsHLaYMV9FqIQLPFqqr8Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161020097770-8to61la2uki7ufa1n82vi0cjhnq4g1qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
